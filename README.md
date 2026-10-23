@@ -1,6 +1,6 @@
 # Hi, I'm Syed Minhaj Hussain 👋
 
-I'm an MSc Cyber Security student based in Germany with experience in IT support, software development, databases, and web technologies.
+I'm an MSc Cyber Security student based in Germany with experience in Software Development, IT support, databases, and web technologies.
 
 ## Currently working on
 
@@ -12,7 +12,7 @@ I'm an MSc Cyber Security student based in Germany with experience in IT support
 
 ## Technologies
 
-Python | Learning C | HTML | SQL | MySQL | Git | Linux
+Python | Learning C | Cyber Security | SQL | MySQL | Git | Linux
 
 ## Current Focus
 
