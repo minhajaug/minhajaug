@@ -4,8 +4,8 @@ I'm an MSc Cyber Security student based in Germany with experience in IT support
 
 ## Currently working on
 
-- Cybersecurity projects
-- Python programming
+- Cybersecurity Projects
+- Python Learning
 - Log analysis
 - JavaScript
 - SQL / MySQL
