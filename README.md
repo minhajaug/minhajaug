@@ -6,13 +6,13 @@ I'm an MSc Cyber Security student based in Germany with experience in IT support
 
 - Cybersecurity Projects
 - Python Learning
+- Learning C
 - Log analysis
-- JavaScript
 - SQL / MySQL
 
 ## Technologies
 
-Python | JavaScript | HTML | SQL | MySQL | Git | Linux
+Python | Learning C | HTML | SQL | MySQL | Git | Linux
 
 ## Current Focus
 
